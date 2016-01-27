@@ -1,4 +1,1 @@
-cmsc128
-=======
-
-CMSC 128 Sample Project
+# cmsc128ay2015-2016
